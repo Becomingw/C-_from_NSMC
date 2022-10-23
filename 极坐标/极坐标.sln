@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "极坐标", "极坐标\极坐标.vcxproj", "{AA5E2C3E-4D60-4C18-A23D-9216EC70AF30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5E2C3E-4D60-4C18-A23D-9216EC70AF30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA5E2C3E-4D60-4C18-A23D-9216EC70AF30}.Debug|Win32.Build.0 = Debug|Win32
+		{AA5E2C3E-4D60-4C18-A23D-9216EC70AF30}.Release|Win32.ActiveCfg = Release|Win32
+		{AA5E2C3E-4D60-4C18-A23D-9216EC70AF30}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
